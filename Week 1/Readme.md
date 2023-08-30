@@ -1,4 +1,4 @@
-<p>Week 1 lab Assignment<br>
-Include the type of retail application<br>
-Name of application<br>
-Summary of application - description</p>
+<p>Week 1 lab Assignment</p>
+<p>Include the type of retail application</p>
+<p>Name of application</p>
+<p>Summary of application - description</p>
